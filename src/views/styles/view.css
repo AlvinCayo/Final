@@ -1,0 +1,10 @@
+.container{
+    position: absolute;
+    display: flex;
+    top: 10px;
+    left: 10px;
+    flex-direction: column;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
